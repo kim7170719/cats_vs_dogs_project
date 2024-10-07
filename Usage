@@ -1,0 +1,7 @@
+# 忽略模型文件
+models/*.h5
+# 忽略資料集文件
+data/raw/*
+data/processed/*
+# 忽略 Jupyter Notebook 生成的中間文件
+*.ipynb_checkpoints

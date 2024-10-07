@@ -1,0 +1,15 @@
+# 忽略數據集和模型文件
+data/
+models/*.pth
+*.h5
+
+# 忽略 Python 編譯的中間文件
+__pycache__/
+*.py[cod]
+
+# 忽略 Jupyter Notebook 的中間文件
+.ipynb_checkpoints/
+
+# 忽略操作系統的文件
+.DS_Store
+Thumbs.db
